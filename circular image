@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utl-8">
+        <title>Rounded Image</title>
+     <style>
+         img{
+             border: 3px dashed rgb(255, 0, 242);
+             border-radius: 50%;
+         }
+             </style>
+    </head>
+    <body>
+    <h1>Rounded Image</h1>
+        <img src="https://i0.wp.com/wp.laravel-news.com/wp-content/uploads/2019/10/hacktoberfest.jpg?fit=2200%2C1100&ssl=1?resize=2200%2C1125" width="300px" height="300px">
+     <div>
+         
+     </div>
+    </body>
+</html>
