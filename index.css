@@ -1,0 +1,26 @@
+body{
+    background:url(computer1.jpg)
+    no-repeat center fixed;
+    background-size: cover;
+}
+h1{
+  
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div{
+    background-color:rgb(52, 172, 228);
+    width: 75%;
+    text-align: center;
+    margin:200px auto;
+    border-radius:15px;
+    opacity: 0.9;
+ 
+}
+button{
+    padding: 5px;
+    border-radius: 15px;
+    font-size: 1em;
+    background-color: thistle;
+}
