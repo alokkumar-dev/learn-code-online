@@ -1,3 +1,9 @@
 .navbar-light .navbar-brand{
     color: black;
 }
+body{
+    background: url(monitor.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 250px;
+}
