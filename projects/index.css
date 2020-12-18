@@ -1,3 +1,10 @@
+html,body,p,h1,h2,
+span,div{
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
 .navbar-light .navbar-brand{
     color: black;
 }
@@ -5,5 +12,45 @@ body{
     background: url(monitor.jpg) no-repeat;
     background-size: cover;
     background-position: center;
-    height: 250px;
+    
 }
+.center{
+    text-align: center;
+    padding: 10%;
+}
+h2,p{
+    color: rgb(255, 255, 255);
+   
+}
+
+@media(max-width:768px){
+    h2,p{
+        background-color:rgb(0, 255, 106);
+        opacity: .9;
+    }
+    
+    }
+}
+@media (max-width:1170px){
+    h2,p{
+        background-color: darkorange;
+    }
+    #main-body{
+        height: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
