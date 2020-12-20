@@ -19,24 +19,28 @@ body{
     padding: 10%;
 }
 h2,p{
+     background-color: darkorange;
     color: rgb(255, 255, 255);
    
 }
 
 @media(max-width:768px){
     h2,p{
-        background-color:rgb(0, 255, 106);
-        opacity: .9;
+        background-color: darkorange;
+        
     }
     
     }
 }
-@media (max-width:1170px){
+@media (min-width:768px){
     h2,p{
         background-color: darkorange;
     }
-    #main-body{
-        height: 100px;
+   
+}
+.i{
+    background-color: rgb(240, 139, 6);
+    
 }
 
 
